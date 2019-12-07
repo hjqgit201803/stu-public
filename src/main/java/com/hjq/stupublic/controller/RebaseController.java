@@ -21,6 +21,7 @@ public class RebaseController {
     }
 
     public void testRebase1(){
+        System.out.println("this is should first  update by jg");
         System.out.println("this is jg add code");
         System.out.println("this is hejianqing add code");
     }
