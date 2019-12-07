@@ -24,7 +24,16 @@ public class RebaseController {
         System.out.println("this is should first  update by jg");
         System.out.println("this is jg add code");
         System.out.println("this is hejianqing add code");
+        checkRequest();
     }
+
+    private void checkRequest(){
+        System.out.println("this is checkRequest by jg add");
+    }
+
+
+
+
 
 
 
