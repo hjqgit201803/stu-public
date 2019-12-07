@@ -30,6 +30,14 @@ public class RebaseController {
     public void testRebase2(){
         System.out.println("this is jg add code");
         System.out.println("this is hejianqing add code");
+        int count = 0;
+        while (true){
+            if (++count > 3){
+                break;
+            }
+            System.out.println("count:"+count);
+        }
+
         checkRequest();
     }
 
