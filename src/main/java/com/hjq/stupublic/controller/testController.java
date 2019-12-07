@@ -16,6 +16,7 @@ public class testController {
     public void testGitCommit(){
         System.out.println("this is nothing hhaha");
         System.out.println("this is hjq add hahha");
+        System.out.println("this hejianqing add code");
 
         System.out.println("this is hjq add code");
     }
