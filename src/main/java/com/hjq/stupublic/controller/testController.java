@@ -21,4 +21,11 @@ public class testController {
         System.out.println("this is hjq add code");
     }
 
+    public void testFetch1(){
+        System.out.println("this iis hejianqing add code");
+    }
+
+
+
+
 }
