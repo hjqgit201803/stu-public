@@ -25,12 +25,9 @@ public class testController {
         System.out.println("this iis hejianqing add code");
     }
 
-
-
-
-
     public void testFetch2(){
         System.out.println("this is jg add code");
+        System.out.println("this is hejianqing code");
     }
 
 
