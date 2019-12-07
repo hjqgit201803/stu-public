@@ -15,6 +15,7 @@ public class RebaseController {
 
     public void testRebase(){
         System.out.println("this is hejianqing code");
+        System.out.println("this is hejianqing second add code");
     }
 
 }
